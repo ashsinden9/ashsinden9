@@ -46,10 +46,10 @@
 .
  
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeshavSingh7&repo=hotelSite&theme=dark)](https://github.com/ashsinden9/Hack-a-thon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=GAMING-PC&theme=dark)](https://github.com/ashsinden9/smartSupermarketCart)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashsinden9&repo=Hack-a-thon&theme=dark)](https://github.com/ashsinden9/Hack-a-thon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashsinden9&repo=smartSupermarketCart&theme=dark)](https://github.com/ashsinden9/smartSupermarketCart)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Cursor-Animation&theme=dark)](https://github.com/ashsinden9/smartHelmet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashsinden9&repo=smartHelmet&theme=dark)](https://github.com/ashsinden9/smartHelmet)
 
 ---
 
