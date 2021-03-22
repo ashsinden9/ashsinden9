@@ -17,7 +17,7 @@
 ### 📚	Comfortable With  :
 
 #### ```PYTHON```| ```C++```| ```Metasploit```| ```Jupyter-notebook```
-#### ```Data Structures```| ```OS```| ```IoT```| ```Java```| ```Ethical Hacking```
+#### ```Data Structures```| ```Operating System```| ```IoT```| ```Java```| ```Ethical Hacking```
 
 ---
 ### STATS :
