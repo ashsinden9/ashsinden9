@@ -31,10 +31,10 @@
 
 <br>
 
-<a href="https://www.sololearn.com/profile/15165618" target="_blank">
+<a href="https://www.sololearn.com/profile/15165618">
   <img align="left" alt="Sparsh's Sourcerer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
 </a>
-<a href="https://www.instagram.com/ashsinden9/" target=blank>
+<a href="https://www.instagram.com/ashsinden9/">
   <img align="left" alt="Sparsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/ashsinden9" target=blank>
