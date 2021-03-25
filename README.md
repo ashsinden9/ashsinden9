@@ -27,7 +27,7 @@
 
 ---
 
-##  📝 You can find me on:
+##  📝 You can find me here:
 
 <br>
 
