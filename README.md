@@ -14,7 +14,7 @@
 ### :computer: looking to Develop :
 #### __Bikers Safety |  ML BASED PYTHON PROJECT__
 ---
-### 📚	Comfortable With  :
+### 📚	I am Comfortable With  :
 
 #### ```PYTHON```| ```C++```| ```Metasploit```| ```Jupyter-notebook```
 #### ```Data Structures```| ```Operating System```| ```IoT```| ```Java```| ```Ethical Hacking```
@@ -23,6 +23,7 @@
 ### STATS :
 
 [![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashsinden9&show_icons=true&theme=dark)](https://sourcerer.io/ashsinden9)
+
 
 ---
 
