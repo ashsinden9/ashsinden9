@@ -43,7 +43,7 @@
 <a href="https://www.linkedin.com/in/ashsinden9/" target=blank>
   <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
-.
+
  
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashsinden9&repo=Hack-a-thon&theme=dark)](https://github.com/ashsinden9/Hack-a-thon)
