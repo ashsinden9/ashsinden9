@@ -20,6 +20,7 @@
 #### ```Data Structures```| ```OS```| ```IoT```| ```Java```| ```Ethical Hacking```
 
 ---
+
 ### STATS :
 
 [![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashsinden9&show_icons=true&theme=dark)](https://sourcerer.io/ashsinden9)
@@ -44,12 +45,10 @@
   <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
 
- 
- 
 ---
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashsinden9&repo=Hack-a-thon&theme=dark)](https://github.com/ashsinden9/Hack-a-thon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashsinden9&repo=smartSupermarketCart&theme=dark)](https://github.com/ashsinden9/smartSupermarketCart)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashsinden9&repo=smartHelmet&theme=dark)](https://github.com/ashsinden9/smartHelmet)
 
 ---
